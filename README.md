@@ -1,5 +1,5 @@
 # 编译原理Tiny扩充语言的语法树生成
-保存着编译原理实验三的文件、TinyFinal是命令行版本的，Qt_TinyAnalyzor是QT版本的
+保存着编译原理实验三的文件、TinyFinal是命令行版本源代码，Qt_TinyAnalyzor是QT版本源代码，exe是QT可执行程序【解压找到TinyFinal.exe双击执行】
 
 一、实验内容：
 
